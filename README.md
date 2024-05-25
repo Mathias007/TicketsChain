@@ -59,4 +59,4 @@ class Client:
 
         for ticket in tickets:
             technicalSupportHandler.HandleTicket(ticket)
-```****
+```
